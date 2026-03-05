@@ -5,8 +5,8 @@ import taichi as ti
 ti.init(arch=ti.gpu)
 
 # 导入我们自己写的模块
-from .config import WINDOW_RES, PARTICLE_COLOR, PARTICLE_RADIUS
-from .physics import init_particles, update_particles, pos
+from .config import WINDOW_RES, PARTICLE_RADIUS
+from .physics import init_particles, update_particles, pos, color
 
 def run():
     print("正在编译 GPU 内核，请稍候...")
@@ -23,7 +23,7 @@ def run():
         update_particles(mouse_x, mouse_y)
         
         # 读取显存数据并绘制
-        gui.circles(pos.to_numpy(), color=PARTICLE_COLOR, radius=PARTICLE_RADIUS)
+        gui.circles(pos.to_numpy(), color=color.to_numpy(), radius=PARTICLE_RADIUS)
         gui.show()
 
 if __name__ == "__main__":
