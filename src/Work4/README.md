@@ -1,8 +1,12 @@
+# README（实验4）
+
 # CG 实验室 - 实验四
 
 北师大人工智能学院计算机图形学课程实验4——Phong 光照模型
 
-于理想 202411040016
+**于理想 202411040016**
+
+完成了必做与选做
 
 ## 项目简介
 
@@ -14,20 +18,30 @@
 
 【Phong光照模型基础版本效果】
 
+![phong_basic](images/phong_basic.gif)
+
 ### 选做内容1：Blinn-Phong 模型升级
 
 【Blinn-Phong模型效果】
+
+![blinn_phong](images/blinn_phong.gif)
 
 ### 选做内容2：硬阴影
 
 【硬阴影效果】
 
+![hard_shadow](images/hard_shadow.gif)
+
 ## 环境要求
 
 - Python 3.9 或更高版本
+
 - Taichi 1.7.3 或更高版本
+
 - PyQt5（用于 UI 交互面板）
+
 - Windows / Linux / macOS
+
 - GPU 支持（推荐）或 CPU
 
 ## 安装步骤
@@ -66,10 +80,15 @@ python -m src.Work4.main
 **操作说明：**
 
 - 拖动右侧滑块调节材质参数：
-  - Ka：环境光系数（0.0 ~ 1.0）
-  - Kd：漫反射系数（0.0 ~ 1.0）
-  - Ks：镜面高光系数（0.0 ~ 1.0）
-  - Shininess：高光指数（1.0 ~ 128.0）
+
+    - Ka：环境光系数（0.0 ~ 1.0）
+
+    - Kd：漫反射系数（0.0 ~ 1.0）
+
+    - Ks：镜面高光系数（0.0 ~ 1.0）
+
+    - Shininess：高光指数（1.0 ~ 128.0）
+
 - 关闭窗口退出程序
 
 ### 选做内容1：Blinn-Phong 模型升级
@@ -81,6 +100,7 @@ python -m src.Work4.main_blinnphong
 **操作说明：**
 
 - 拖动滑块调节材质参数
+
 - 勾选/取消勾选 "Use Blinn-Phong Model" 复选框，对比 Phong 和 Blinn-Phong 的高光效果差异
 
 ### 选做内容2：硬阴影
@@ -92,6 +112,7 @@ python -m src.Work4.main_shadow
 **操作说明：**
 
 - 拖动滑块调节材质参数
+
 - 勾选/取消勾选 "Enable Hard Shadows" 复选框，开启或关闭硬阴影效果
 
 ## 项目结构

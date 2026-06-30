@@ -10,7 +10,7 @@
 
 ## 效果展示
 
-![粒子动画](../../%E7%B2%92%E5%AD%90%E5%8A%A8%E7%94%BB.gif)
+![particle_animation](images/particle_animation.gif)
 
 ## 环境要求
 

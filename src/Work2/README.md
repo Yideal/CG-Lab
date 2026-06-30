@@ -14,13 +14,13 @@
 
 【三角旋转图片】
 
-![实验2基础](../../%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E6%95%99%E7%A8%8B/%E5%AE%9E%E9%AA%8C2%E5%9F%BA%E7%A1%80.gif)
+![triangle_rotation](images/triangle_rotation.gif)
 
 ### 选做内容：3D 立方体与旋转插值
 
 【拓展内容图片】
 
-![实验2 拓展](../../%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E6%95%99%E7%A8%8B/%E5%AE%9E%E9%AA%8C2%20%E6%8B%93%E5%B1%95.gif)
+![cube_interpolation](images/cube_interpolation.gif)
 
 ## 环境要求
 

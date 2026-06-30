@@ -18,7 +18,7 @@
 
 【运行gif】
 
-![基础版本\.gif](images/基础版本.gif)
+![springs_basic](images/springs_basic.gif)
 
 
 
@@ -44,13 +44,13 @@
 
 【完整弹簧模型效果】
 
-![实验7拓展1\.gif](images/实验7拓展1.gif)
+![springs_ext1](images/springs_ext1.gif)
 
 ### 选做内容2：空间碰撞检测
 
 【碰撞检测效果】
 
-![实验7拓展2\.gif](images/实验7拓展2.gif)
+![springs_ext2](images/springs_ext2.gif)
 
 ### GUI 控制面板
 

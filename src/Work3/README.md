@@ -18,19 +18,19 @@
 
 【贝塞尔曲线基础版本效果】
 
-![实验三基础.gif](images/实验三基础.gif)
+![bezier_basic](images/bezier_basic.gif)
 
 ### 选做内容1：反走样贝塞尔曲线
 
 【反走样贝塞尔曲线效果】
 
-![实验3拓展1：反走样贝塞尔曲线.gif](images/实验3拓展1：反走样贝塞尔曲线.gif)
+![antialiasing_bezier](images/antialiasing_bezier.gif)
 
 ### 选做内容2：B样条曲线
 
 【B样条曲线效果】
 
-![实验三B样条部分.gif](images/实验三B样条部分.gif)
+![bspline](images/bspline.gif)
 
 ## 环境要求
 

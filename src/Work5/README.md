@@ -18,19 +18,19 @@
 
 【光线追踪基础版本效果】
 
-![实验5基础版本\.gif](images/实验5基础版本.gif)
+![raytracing_basic](images/raytracing_basic.gif)
 
 ### 选做内容1：折射与玻璃材质
 
 【玻璃材质折射效果】
 
-![实验5选做1：折射与玻璃材质\.gif](images/实验5选做1：折射与玻璃材质.gif)
+![refraction_glass](images/refraction_glass.gif)
 
 ### 选做内容2：抗锯齿
 
 【抗锯齿效果对比】
 
-![实验5选做2：抗锯齿\.gif](images/实验5选做2：抗锯齿.gif)
+![raytracing_antialiasing](images/raytracing_antialiasing.gif)
 
 ## 环境要求
 

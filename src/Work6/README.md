@@ -18,19 +18,19 @@
 
 【必做部分优化过程】
 
-![基础版本\.gif](images/基础版本.gif)
+![optimization_basic](images/optimization_basic.gif)
 
 ### 选做内容1：多参数联合优化
 
 【光源位置与颜色联合优化过程】
 
-![选做1多参数优化\.gif](images/选做1多参数优化.gif)
+![multi_param_opt](images/multi_param_opt.gif)
 
 ### 选做内容2：Blinn\-Phong 模型优化
 
 【Blinn\-Phong 高光优化过程】
 
-![选做2 优化\.gif](images/选做2%20优化.gif)
+![joint_opt](images/joint_opt.gif)
 
 ## 环境要求
 
